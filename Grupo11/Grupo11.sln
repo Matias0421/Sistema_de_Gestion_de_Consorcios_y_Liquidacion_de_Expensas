@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 22
+VisualStudioVersion = 18.0.11201.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}"
+	ProjectSection(SolutionItems) = preProject
+		..\00_CreacionDbSchemaTablas.sql = ..\00_CreacionDbSchemaTablas.sql
+		..\01-InsercionTiposConstantes.sql = ..\01-InsercionTiposConstantes.sql
+		..\02-Funciones.sql = ..\02-Funciones.sql
+		..\03-ImportacionDeArchivoConsorcio.sql = ..\03-ImportacionDeArchivoConsorcio.sql
+		..\04-ImportacionDeArchivoPersonas.sql = ..\04-ImportacionDeArchivoPersonas.sql
+		..\05-ImportacionDeArchivoUF.sql = ..\05-ImportacionDeArchivoUF.sql
+		..\06-ImportacionDeArchivoPersonaUF.sql = ..\06-ImportacionDeArchivoPersonaUF.sql
+		..\07-ImportacionDeExpensas.sql = ..\07-ImportacionDeExpensas.sql
+		..\08-ImportacionGastosExtraordinarios.sql = ..\08-ImportacionGastosExtraordinarios.sql
+		..\09-ImportacionDeArchivoPagos.sql = ..\09-ImportacionDeArchivoPagos.sql
+		..\10-ConsultaEstadoFinanciero.sql = ..\10-ConsultaEstadoFinanciero.sql
+		..\11-ConsultaExpensa.sql = ..\11-ConsultaExpensa.sql
+		..\12-Reporte.sql = ..\12-Reporte.sql
+		..\13-Indices.sql = ..\13-Indices.sql
+		..\14-Seguridad.sql = ..\14-Seguridad.sql
+		..\15-apiCotizacionDolar.sql = ..\15-apiCotizacionDolar.sql
+		..\16-Execs.sql = ..\16-Execs.sql
+		..\17_RepExec.sql = ..\17_RepExec.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2EC4936-A539-4173-BA02-D53217FAF3AF}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB8B42D5-8B9D-403F-816E-1139BCB10649}
+	EndGlobalSection
+EndGlobal

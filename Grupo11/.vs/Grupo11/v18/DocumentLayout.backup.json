@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\Grupo11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\16-Execs.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\17_RepExec.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\15-apiCotizacionDolar.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\14-Seguridad.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\13-Indices.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\12-Reporte.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\11-ConsultaExpensa.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\10-ConsultaEstadoFinanciero.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\09-ImportacionDeArchivoPagos.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\08-ImportacionGastosExtraordinarios.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\07-ImportacionDeExpensas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\06-ImportacionDeArchivoPersonaUF.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\05-ImportacionDeArchivoUF.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\04-ImportacionDeArchivoPersonas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\03-ImportacionDeArchivoConsorcio.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\02-Funciones.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\01-InsercionTiposConstantes.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\00_CreacionDbSchemaTablas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "17_RepExec.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (72))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\17_RepExec.sql",
+              "RelativeDocumentMoniker": "..\\17_RepExec.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\17_RepExec.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (72))",
+              "RelativeToolTip": "..\\17_RepExec.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (72))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:19:27.584Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (72))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "16-Execs.sql - DESKTOP-C26424R.master (DESKTOP-C26424R\\chris (56))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\16-Execs.sql",
+              "RelativeDocumentMoniker": "..\\16-Execs.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\16-Execs.sql - DESKTOP-C26424R.master (DESKTOP-C26424R\\chris (56))",
+              "RelativeToolTip": "..\\16-Execs.sql - DESKTOP-C26424R.master (DESKTOP-C26424R\\chris (56))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:19:26.14Z",
+              "EditorCaption": " - DESKTOP-C26424R.master (DESKTOP-C26424R\\chris (56))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "15-apiCotizacionDolar.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (71))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\15-apiCotizacionDolar.sql",
+              "RelativeDocumentMoniker": "..\\15-apiCotizacionDolar.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\15-apiCotizacionDolar.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (71))",
+              "RelativeToolTip": "..\\15-apiCotizacionDolar.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (71))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:19:11.321Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (71))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "14-Seguridad.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (70))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\14-Seguridad.sql",
+              "RelativeDocumentMoniker": "..\\14-Seguridad.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\14-Seguridad.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (70))",
+              "RelativeToolTip": "..\\14-Seguridad.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (70))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:19:07.855Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (70))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "13-Indices.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (69))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\13-Indices.sql",
+              "RelativeDocumentMoniker": "..\\13-Indices.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\13-Indices.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (69))",
+              "RelativeToolTip": "..\\13-Indices.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (69))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:19:05.331Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (69))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "12-Reporte.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (67))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\12-Reporte.sql",
+              "RelativeDocumentMoniker": "..\\12-Reporte.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\12-Reporte.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (67))",
+              "RelativeToolTip": "..\\12-Reporte.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (67))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:19:02.907Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (67))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "11-ConsultaExpensa.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (66))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\11-ConsultaExpensa.sql",
+              "RelativeDocumentMoniker": "..\\11-ConsultaExpensa.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\11-ConsultaExpensa.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (66))",
+              "RelativeToolTip": "..\\11-ConsultaExpensa.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (66))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:19:01.15Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (66))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "10-ConsultaEstadoFinanciero.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (65))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\10-ConsultaEstadoFinanciero.sql",
+              "RelativeDocumentMoniker": "..\\10-ConsultaEstadoFinanciero.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\10-ConsultaEstadoFinanciero.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (65))",
+              "RelativeToolTip": "..\\10-ConsultaEstadoFinanciero.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (65))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:58.836Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (65))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "09-ImportacionDeArchivoPagos.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (64))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\09-ImportacionDeArchivoPagos.sql",
+              "RelativeDocumentMoniker": "..\\09-ImportacionDeArchivoPagos.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\09-ImportacionDeArchivoPagos.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (64))",
+              "RelativeToolTip": "..\\09-ImportacionDeArchivoPagos.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (64))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:56.977Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (64))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "08-ImportacionGastosExtraordinarios.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (62))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\08-ImportacionGastosExtraordinarios.sql",
+              "RelativeDocumentMoniker": "..\\08-ImportacionGastosExtraordinarios.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\08-ImportacionGastosExtraordinarios.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (62))",
+              "RelativeToolTip": "..\\08-ImportacionGastosExtraordinarios.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (62))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:55.068Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (62))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "07-ImportacionDeExpensas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (61))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\07-ImportacionDeExpensas.sql",
+              "RelativeDocumentMoniker": "..\\07-ImportacionDeExpensas.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\07-ImportacionDeExpensas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (61))",
+              "RelativeToolTip": "..\\07-ImportacionDeExpensas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (61))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:52.997Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (61))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "06-ImportacionDeArchivoPersonaUF.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (60))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\06-ImportacionDeArchivoPersonaUF.sql",
+              "RelativeDocumentMoniker": "..\\06-ImportacionDeArchivoPersonaUF.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\06-ImportacionDeArchivoPersonaUF.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (60))",
+              "RelativeToolTip": "..\\06-ImportacionDeArchivoPersonaUF.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (60))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:50.654Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (60))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "05-ImportacionDeArchivoUF.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (58))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\05-ImportacionDeArchivoUF.sql",
+              "RelativeDocumentMoniker": "..\\05-ImportacionDeArchivoUF.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\05-ImportacionDeArchivoUF.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (58))",
+              "RelativeToolTip": "..\\05-ImportacionDeArchivoUF.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (58))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:48.647Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (58))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "04-ImportacionDeArchivoPersonas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (57))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\04-ImportacionDeArchivoPersonas.sql",
+              "RelativeDocumentMoniker": "..\\04-ImportacionDeArchivoPersonas.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\04-ImportacionDeArchivoPersonas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (57))",
+              "RelativeToolTip": "..\\04-ImportacionDeArchivoPersonas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (57))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:46.634Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (57))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "03-ImportacionDeArchivoConsorcio.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (56))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\03-ImportacionDeArchivoConsorcio.sql",
+              "RelativeDocumentMoniker": "..\\03-ImportacionDeArchivoConsorcio.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\03-ImportacionDeArchivoConsorcio.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (56))",
+              "RelativeToolTip": "..\\03-ImportacionDeArchivoConsorcio.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (56))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:44.536Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (56))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "02-Funciones.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (54))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\02-Funciones.sql",
+              "RelativeDocumentMoniker": "..\\02-Funciones.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\02-Funciones.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (54))",
+              "RelativeToolTip": "..\\02-Funciones.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (54))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:42.502Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (54))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "01-InsercionTiposConstantes.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (52))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\01-InsercionTiposConstantes.sql",
+              "RelativeDocumentMoniker": "..\\01-InsercionTiposConstantes.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\01-InsercionTiposConstantes.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (52))",
+              "RelativeToolTip": "..\\01-InsercionTiposConstantes.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (52))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:40.497Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (52))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "00_CreacionDbSchemaTablas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (51))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\00_CreacionDbSchemaTablas.sql",
+              "RelativeDocumentMoniker": "..\\00_CreacionDbSchemaTablas.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\00_CreacionDbSchemaTablas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (51))",
+              "RelativeToolTip": "..\\00_CreacionDbSchemaTablas.sql - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (51))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T01:18:38.074Z",
+              "EditorCaption": " - DESKTOP-C26424R.Com2900G11 (DESKTOP-C26424R\\chris (51))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

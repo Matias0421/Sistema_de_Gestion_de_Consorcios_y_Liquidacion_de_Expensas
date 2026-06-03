@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\Grupo11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\17_RepExec.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "17_RepExec.sql - DESKTOP-C26424R.master (DESKTOP-C26424R\\chris (52))",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\17_RepExec.sql",
+              "RelativeDocumentMoniker": "..\\17_RepExec.sql",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\a\\universidad\\bdda\\tp-2c-2025-Base-de-datos-aplicada\\17_RepExec.sql - DESKTOP-C26424R.master (DESKTOP-C26424R\\chris (52))",
+              "RelativeToolTip": "..\\17_RepExec.sql - DESKTOP-C26424R.master (DESKTOP-C26424R\\chris (52))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T02:07:51.524Z",
+              "EditorCaption": " - DESKTOP-C26424R.master (DESKTOP-C26424R\\chris (52))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+{
+  "_id": {
+    "$oid": "68c2cfb1ad06514d38a2278f"
+  },
+  "Nombre del consorcio": "Azcuenaga",
+  "Mes": "abril",
+  "Cuota actual": "1",
+  "Total cuotas": "3",
+  "Importe": "2000000.00",
+  "Detalle": "Reparación piso PB"
+},
+{
+  "_id": {
+    "$oid": "68c2cfb1ad06514d38a2278g"
+  },
+  "Nombre del consorcio": "Azcuenaga",
+  "Mes": "mayo",
+  "Cuota actual": "2",
+  "Total cuotas": "3",
+  "Importe": "2000000.00",
+  "Detalle": "Reparación piso PB"
+},{
+  "_id": {
+    "$oid": "68c2cfb1ad06514d38a2278h"
+  },
+  "Nombre del consorcio": "Azcuenaga",
+  "Mes": "junio",
+  "Cuota actual": "3",
+  "Total cuotas": "3",
+  "Importe": "2000000.00",
+  "Detalle": "Reparación piso PB"
+}
+]
