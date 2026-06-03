@@ -12,7 +12,7 @@ El proyecto abarca desde el análisis de viabilidad económica/técnica de motor
 
 ## 📄 Documentación Adicional
 Consultá los informes metodológicos y de costos generados a lo largo del ciclo de vida del proyecto:
-* [📄 Informe Final Consolidado (PDF)](./docs/Informe_Integrador_Grupo11.pdf)
+* [📄 Informe Final Consolidado (PDF)](Com2900_Grupo11.pdf)
 * [📊 Diagrama de Entidad-Relación (DER)](./docs/DER_Grupo11.pdf)
 
 ---
